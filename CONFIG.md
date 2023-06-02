@@ -1,23 +1,20 @@
 
 # recordName
 
-emotional-support-pets
+big-brother-25
 
 # displayName
 
-Emotional Support Pets
+Big Brother 25 
 
 # description
 
-Cute animals feed
+Posts containing #BB25 or BB25
 
 # searchTerms
 
-- cats
-- dogs
-- penguins
-- red pandas
-- quokkas
+- #BB25
+- BB25
 
 # avatar
 
